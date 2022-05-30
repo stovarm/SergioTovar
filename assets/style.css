@@ -1,0 +1,20 @@
+
+#carousel {
+    background-color: black;
+}
+
+#carousel .carousel-inner img {
+    opacity: 50%;
+    max-height: 90vh;
+    object-fit: cover;
+}
+
+
+.btn-tovar {
+    background-color: #FDD702;
+}
+
+.btn-tovar:hover {
+    background-color: #ffed84;
+    
+}
