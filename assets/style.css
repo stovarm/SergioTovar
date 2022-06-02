@@ -30,14 +30,21 @@
     object-fit: cover;
 }
 
+#carousel .carousel-inner p,
+#carousel .carousel-inner h5 {
+    color: black;
+}
+
+#carousel .carousel-indicators button {
+    background-color: black;
+}
 
 .btn-tovar {
     background-color: #FDD702;
 }
 
 .btn-tovar:hover {
-    background-color: #c9ab00;
-    
+    background-color: #c9ab00;    
 }
 
 
